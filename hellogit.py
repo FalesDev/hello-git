@@ -1,2 +1,1 @@
-print("Hello git")
-print("Cambio no guardado")
+print("New Hello git")
